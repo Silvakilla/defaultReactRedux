@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 start the app
-```yarn start or npm start```
+```yarn start or npm run start```
 
 start storybook
 ```yarn storybook or npm run storybook```
