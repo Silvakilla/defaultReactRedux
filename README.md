@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 start the app
 ```yarn start or npm start```
+
 start storybook
 ```yarn storybook or npm run storybook```
 
