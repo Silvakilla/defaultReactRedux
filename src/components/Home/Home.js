@@ -18,7 +18,7 @@ class Home extends Component {
 
 const mapStateToProps = (state) => {
     return {
-        foo: state.foo
+        foo: state.defaultReducer.foo
     }
 };
 
